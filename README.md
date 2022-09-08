@@ -9,7 +9,7 @@ ahead of time. This project is all about building and serving an end-to-end prod
 ## Goal
  Build and serve an end-to-end product that delivers this prediction to analysts in the finance team.
  
- ## Store data exploration
+ ## Exploratory Data Analysis
 Data exploratory analysis is done after combining the two datasets train and test and is found in eda file [notebooks/notebooks/eda_store.ipynb](https://github.com/niyotham/sales-forecasting/blob/main/notebooks/eda_store.ipynb)
 
 ### Logging
