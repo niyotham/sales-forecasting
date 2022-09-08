@@ -73,6 +73,11 @@ docs/_build/
 
 # PyBuilder
 target/
+data/ 
+cleaned_store.csv
+store.csv
+test.csv
+train.csv
 
 # Jupyter Notebook
 .ipynb_checkpoints
