@@ -57,3 +57,5 @@ class DataCleaner:
         for col in selected_columns:
             df[col] = winsorize(df[col], (lower, upper))
         return df
+
+    
